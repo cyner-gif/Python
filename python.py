@@ -5,7 +5,6 @@ root = tk.Tk()
 
 def command():
   webbrowser.open("https://www.youtube.com")
-command()
 
 l1 = tk.Label(root, text="Click The Button")
 l1.pack()
